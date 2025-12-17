@@ -27,7 +27,7 @@ if ($is_logged_in) {
 <body>
     <header>
         <a href="index.php" class="logo">
-            <img src="anab_logo.jpeg" alt="ANAB Niger Logo">
+            <img src="Anab_logo.jpeg" alt="ANAB Niger Logo">
         </a>
         <nav id="nav-menu">
             <a href="#info"><i class="fas fa-info-circle"></i> About</a>

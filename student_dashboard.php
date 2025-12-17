@@ -186,7 +186,7 @@ header h1 { font-size: 2.5rem; color: var(--dark); margin-bottom: 10px; }
 
     <aside class="sidebar">
         <div class="logo">
-            <img src="anab_logo.jpeg" alt="ANAB Niger Logo">
+            <img src="Anab_logo.jpeg" alt="ANAB Niger Logo">
             <h2>E-Bourse Portal</h2>
         </div>
         <nav class="sidebar-nav">
